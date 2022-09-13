@@ -1,9 +1,8 @@
-import java.io.IOException;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
 public class Main {
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args)  {
         float bitcoinsPrice;    // Current bitcoin price
         float usdAmount;        // Amount of dollars
         float btcAmount;        // Amount of bitcoins
